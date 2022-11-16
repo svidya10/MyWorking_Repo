@@ -2,7 +2,7 @@ package Collections_Hw;
 
 import java.util.TreeSet;
 
-public class Hw4_AlphabeticalOrder {
+public class Hw4_Countries {
     public static void main(String[] args){
         TreeSet<String> countries = new TreeSet<>();
         countries.add("Canada");

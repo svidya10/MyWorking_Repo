@@ -2,7 +2,7 @@ package HW_Maps;
 
 import java.util.HashMap;
 
-public class Hw1_Building {
+public class Hw1_MapBuilding {
     public static void main(String[] args) {
         HashMap<Integer,String> building = new HashMap<>();
         building.put(1,"Google");

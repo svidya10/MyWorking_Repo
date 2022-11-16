@@ -2,7 +2,7 @@ package Collections_Hw;
 
 import java.util.LinkedHashSet;
 
-public class Hw4_Cities {
+public class Hw5_Cities {
     public static void main(String[] args){
         LinkedHashSet<String> cities = new LinkedHashSet<>();
         cities.add("Seattle");

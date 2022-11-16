@@ -5,9 +5,11 @@ public class Hw4PrivateOverload {
         private void printInfo (){
             System.out.println("I don't have any info");
         }
+
         static void printInfo (String s){
             System.out.println(s);
         }
+
         private void printInfo (String s, int n){
             System.out.println(s+" "+n);
         }

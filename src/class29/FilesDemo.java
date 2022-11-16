@@ -1,4 +1,4 @@
-package Class29;
+package class29;
 
 import utils.ConfigReader;
 import utils.ExcelReader;
@@ -13,7 +13,8 @@ public class FilesDemo {
 
 
         String excelPath="/Users/apple/IdeaProjects/SDETBatch14Java/Data/Test.xlsx";
-      var excelData=  ExcelReader.read(excelPath);
+       var excelData=  ExcelReader.read(excelPath);
         System.out.println(excelData);
+
     }
 }
