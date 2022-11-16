@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d19614-b853-42eb-af1f-bd2c7c6f2495" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Hw/Hw1_Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Hw/Hw2_Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Hw/Hw3_Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Hw/Hw4_Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Hw/Hw5_Cities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Hw/Hw6_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Collections/Hw1_words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Collections/Hw2_drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Collections/Hw3_EvenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/ExcelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDET_Working.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDET_Working.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SDET_Working/ArrayList/Hw_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SDET_Working/ArrayList/Hw_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SDET_Working/Overloading/Hw4PrivateOverload.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SDET_Working/Overloading/Hw4PrivateOverload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SDET_Working/class24/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SDET_Working/class24/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SDET_Working/class24/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SDET_Working/class24/Horse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SDET_Working/class24/HorseTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overloading/Hw4PrivateOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/Overloading/Hw4PrivateOverload.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HSPkAtQgLGCZPzxUHmoxcXdn5M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/svidy/IdeaProjects/SDETBatch14-Vidya/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d19614-b853-42eb-af1f-bd2c7c6f2495" name="Changes" comment="" />
+      <created>1668275651448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668275651448</updated>
+    </task>
+    <servers />
+  </component>
+</project>
